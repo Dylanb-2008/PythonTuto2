@@ -1,19 +1,4 @@
-# creando una funcion simple
-#def saludar():
-#    print("hola")
-#
-#saludar()
-#saludar()
-#saludar()
-#
-# o tambien
-#print("")
-#
-#for _ in range(3):
-#    saludar()
-
-
-# funcion co parametros
+# funcion con parametros
 def saludar(nombre):
     print(f"hola, {nombre}")
 
